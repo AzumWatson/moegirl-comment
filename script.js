@@ -8,6 +8,7 @@
 // @match        mzh.moegirl.org.cn/*
 // @icon         https://img.moegirl.org.cn/favicon.ico
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
