@@ -2,6 +2,8 @@
 
 给[`萌娘百科`](https://zh.moegirl.org.cn/Mainpage)增加一个评论的功能。
 
+[效果图页面链接](https://zh.moegirl.org.cn/%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0)
+
 ![效果图](https://raw.githubusercontent.com/AzumWatson/moegirl-comment/main/screenshots/iasjdoaufbwi.png)
 
 ## 使用方法
