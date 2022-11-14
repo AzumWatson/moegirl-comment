@@ -16,4 +16,4 @@
 
 直接在页面上插入 [Giscus](https://giscus.app/zh-CN) 评论系统
 
-数据存储在 本仓库的 Discussions 如果你觉得好用的话请点个 Star 吧
+评论数据存储在 本仓库的 [Discussions](https://github.com/AzumWatson/moegirl-comment) 如果你觉得好用的话请点个 Star 吧
