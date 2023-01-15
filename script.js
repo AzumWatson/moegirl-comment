@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         萌娘百科第三方评论插件
 // @namespace    https://github.com/azumwatson
-// @version      0.1
+// @version      0.2
 // @description  为 萌娘百科 添加上评论功能
 // @author       AzumWatson
 // @match        zh.moegirl.org.cn/*
@@ -30,6 +30,6 @@
     moeComment.setAttribute("data-theme","light");
     moeComment.setAttribute("data-lang","zh-CN");
     moeComment.setAttribute("crossorigin","anonymous");
-    document.getElementById('bodyContent').appendChild(br);
-    document.getElementById('bodyContent').appendChild(moeComment);
+    document.getElementById('mw-body').appendChild(br);
+    document.getElementById('mw-body').appendChild(moeComment);
 })();
